@@ -1,0 +1,70 @@
+.b1 {
+    background: linear-gradient(45deg, #282ba3, #9c8b7e);
+    color: darkcyan;
+    padding: 12px 25px;
+    border-radius: 12px;
+    border: none;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b2 {
+    background: linear-gradient(45deg, #1b7908, rgb(24, 61, 224) );
+    color: rgb(139, 0, 0);
+    padding: 12px 25px;
+    border-radius: 12px;
+    border: none;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b3 {
+    background: linear-gradient(45deg, #489615, #065e69);
+    color: darkcyan;
+    padding: 12px 25px;
+    border-radius: 12px;
+    border: none;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b4 {
+    background: linear-gradient(45deg, #090761, #035829);
+    color: darkcyan;
+    padding: 12px 25px;
+    border-radius: 12px;
+    border: none;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b5 {
+    background: linear-gradient(45deg, #9c44ef, #F97316);
+    color: darkcyan;
+    padding: 12px 25px;
+    border-radius: 12px;
+    border: none;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b6 {
+    background: linear-gradient(45deg, #EF4444, #e7e409);
+    color: darkcyan;
+    padding: 12px 25px;
+    border-radius: 12px;
+    border: none;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.c {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+body {
+    background-image: url("tg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
